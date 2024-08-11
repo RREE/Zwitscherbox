@@ -4,11 +4,11 @@ Ich will meine eigener Version des kommerziellen Produkts (Zwitscherbox)[https:/
 
 Ein ähnliches Projekt einer Sprachbox findet sich hier (https://prilchen.de/bau-dir-eine-soundbox-die-bei-bewegung-startet/)
 
-## Mechanics
+## Mechanik
 
 Die Vorderfront soll aus echtem Holz sein, wenn möglich aus Eiche. Das liegen noch Reste im Keller
 
-## Electronics
+## Electronik
 
 ### Prozessor
 Bevorzugt auf Basis rp2040, eventuell auch auf AVR8, oder dem neuen rp2350
