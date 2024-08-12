@@ -31,3 +31,6 @@ LiPo (vom Modellbau) oder Rest vom Rauchmelder (3 x 1,5V).
 
 Wiederaufladbar, Steckernetzteil, Batteriewechsel?
 
+## Töne
+
+Lizenzfreies [Vogelgezwitscher](https://pixabay.com/de/sound-effects/search/vogelgezwitscher/)
