@@ -1,14 +1,14 @@
 # Zwitscherbox
 
-Ich will meine eigener Version des kommerziellen Produkts (Zwitscherbox)[https://www.relaxound.com/zwitscherbox] nachbauen.
+Ich will meine eigener Version des kommerziellen Produkts [Zwitscherbox](https://www.relaxound.com/zwitscherbox) nachbauen.
 
-Ein ähnliches Projekt einer Sprachbox findet sich hier (https://prilchen.de/bau-dir-eine-soundbox-die-bei-bewegung-startet/)
+Ein ähnliches Projekt einer Sprachbox findet sich [hier](https://prilchen.de/bau-dir-eine-soundbox-die-bei-bewegung-startet/).
 
-## Mechanics
+## Mechanik
 
-Die Vorderfront soll aus echtem Holz sein, wenn möglich aus Eiche. Das liegen noch Reste im Keller
+Die Vorderfront soll aus echtem Holz sein, wenn möglich aus Eiche. Da liegen noch Reste im Keller.
 
-## Electronics
+## Electronik
 
 ### Prozessor
 Bevorzugt auf Basis rp2040, eventuell auch auf AVR8, oder dem neuen rp2350
@@ -19,14 +19,18 @@ Der Bewegungsmelder HC-SR505 ist ein kleiner, passiver Infrarot-Sensor der Wärm
 
 ### Spieler
 
-DFPlayer https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299
+Der [DFPlayer Mini](https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299) ist ein Mini-MP3-Player-Modul mit integriertem MicroSD-Kartenslot und Audio-Verstärker zum direkten Anschluss eines Lautsprechers. Das Teil ermöglicht die Ausgabe von Audio-Dateien direkt per Lautsprecher (4 oder 8 Ohm). Unterstützte Audioformate sind MP3, WMA und WAV (am besten funktioniert angeblich MP3).
 
-Der DFPlayer Mini ist ein Mini-MP3-Player-Modul mit integriertem MicroSD-Kartenslot und Audio-Verstärker zum direkten Anschluss eines Lautsprechers. Das Teil ermöglicht die Ausgabe von Audio-Dateien direkt per Lautsprecher (4 oder 8 Ohm). Unterstützte Audioformate sind 
-MP3, WMA und WAV (am besten funktioniert angeblich MP3).
+![Pinbelegung DFPlayer](electronics/bauteil_dfplayer-mini_kennzeichnung.png)
 
 ### Lautsprecher
 
 ### Stromcversorgung
 
-LiPo (vom Modellbau) oder Rest vom Rauchmelder (3 x 1,5V)
+LiPo (vom Modellbau) oder Rest vom Rauchmelder (3 x 1,5V).
 
+Wiederaufladbar, Steckernetzteil, Batteriewechsel?
+
+## Töne
+
+Lizenzfreies [Vogelgezwitscher](https://pixabay.com/de/sound-effects/search/vogelgezwitscher/)

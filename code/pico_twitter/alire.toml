@@ -1,0 +1,16 @@
+name = "pico_twitter"
+description = ""
+version = "0.1.0-dev"
+
+authors = ["Rolf Ebert"]
+maintainers = ["Rolf Ebert <rolf.ebert.gcc@gmx.de>"]
+maintainers-logins = ["RREE"]
+website = ""
+tags = []
+
+[[depends-on]]
+pico_bsp = "^2.0.0"
+dfplayer_mini_ada = "*"
+
+[[pins]]
+dfplayer_mini_ada = { path = "../../../dfplayer_mini_ada" }
