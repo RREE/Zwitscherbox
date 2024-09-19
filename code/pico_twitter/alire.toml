@@ -13,4 +13,4 @@ pico_bsp = "^2.0.0"
 dfplayer_mini_ada = "*"
 
 [[pins]]
-dfplayer_mini_ada = { path = "../../../dfplayer_mini_ada" }
+dfplayer_mini_ada = { path = "../../../Ada/rp2040/dfplayer_mini_ada" }
